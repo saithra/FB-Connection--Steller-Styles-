@@ -1,3 +1,34 @@
+# A Complete e-Commerce Website 
+
+"I built an e-commerce website called Stellar Style using the MERN stack. I handled both the front-end and back-end development.
+
+For the front-end, I used React.js along with HTML, CSS, and JavaScript. I incorporated Bootstrap to ensure the site is mobile-friendly.
+
+For the back-end, I used Node.js and Express.js, storing data in MongoDB and managing it with Mongoose. I tested the APIs using Postman.
+
+The login page offers options for both admin and customer logins.
+
+Customers can browse the site and order products.
+
+Admins can read, create, update, and delete products, and view customer details, order details, and stock in the store."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

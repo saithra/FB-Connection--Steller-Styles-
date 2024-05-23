@@ -1,0 +1,78 @@
+.link_nav{
+    color: black !important;
+  font-family: "Sarabun", sans-serif;
+  font-weight: 600;
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 16px;
+}
+.link_nav:hover{
+    color: rgb(180, 9, 180) !important;
+    
+
+}
+.navbar-brand{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: wheat !important;
+}
+i{
+    font-size: 20px;
+   
+    
+}
+.fa-cart-shopping{
+    margin-left: 13px;
+} 
+#forms{
+    margin-left: -60px;
+    margin-top: -11px;
+}
+#search input{
+    margin-left: 450px;
+}
+.list-group {
+    margin-top:5px;
+    width: 250px;
+    
+   z-index: 100;
+   position: absolute;
+   }
+
+.list-group-item-action{
+    background-color: white !important;
+    color: rgb(180, 9, 180) !important;
+    font-weight: 400;
+  font-family: "Sarabun", sans-serif;
+
+}
+.list-group-item-action:hover{
+    background-color: rgb(239, 214, 239) !important;
+
+}
+   
+   @media (max-width: 1199.98px)  {
+    .list-group {
+      margin-top:40px;
+     z-index: 100;
+     position: absolute;
+}}
+
+#search_box{
+    padding: 5px;
+    margin-left: -80px;
+    width: 200px;
+    margin-top: -8px;
+    font-size: 23px;
+}
+#search_logo{
+    margin-top: 23px;
+    color: wheat;
+}
+#search_logo:hover{
+    color: white;
+}
+#dropdownMenuButton{
+    border: none;
+}
+
+

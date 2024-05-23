@@ -3,11 +3,22 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import Search from './search';
+// import Cartapp from './addcart';
+// import Navbar from './navbar';
+// import Product from './addproduct';
+// import Carthome from './carthome';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    {/* <Search/> */}
+    {/* <Carthome/> */}
+    {/* <Cartapp/> */}
+    {/* <Product/> */}
+    {/* <Navbar/> */}
   </React.StrictMode>
 );
 

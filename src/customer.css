@@ -1,0 +1,29 @@
+
+#house i{
+  font-size: 190%;
+  margin-left: -50px;
+}
+.jumbotron{
+  color: white;
+  padding: 15px 10px;
+}
+
+#foot_slide{
+  background-color: lavender;
+  color: rgb(81, 26, 120) !important;
+  font-size: 5px;
+  height: 270px;
+  /* margin-top: -50px; */
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  #foot_slide h1{
+      padding: 30px;
+      color: rgb(81, 26, 120);
+
+  }
+  #foot_slide h2{
+      font-size: 18px;
+      color: rgb(81, 26, 120);
+
+  }

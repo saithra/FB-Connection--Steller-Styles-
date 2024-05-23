@@ -1,0 +1,320 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+#navbar_top{
+    width: 100%;
+    height: 35px;
+    background-image: url("./img/violet.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 10;
+    position: fixed;
+}
+#navbar_top1{
+    width: 100%;
+    height: 40px;
+    background-color: white !important;
+    position: sticky !important;
+    margin-top: -2px;
+    border: 1px solid gainsboro;
+    
+
+}
+
+
+
+
+nav{
+    width: 100%;
+    height:60px;
+    margin-top: 10px;
+    position: fixed !important;
+     z-index: 10;
+     background-color: white !important;
+}
+
+.nav_box{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.my_shop{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: wheat;
+    font-family: cursive;
+    cursor: pointer;
+}
+.cart{
+    cursor: pointer;
+}
+
+.cart span:nth-child(1){
+    font-size: 2rem;
+    color: wheat;
+}
+
+.cart span:nth-child(2){
+    padding: 0 3px;
+    background-color: red;
+    color: wheat;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative;
+    top: -15px;
+}
+#user{ 
+    margin-top: 10px;
+    font-size: 225%;
+    color: wheat;
+    margin-left: -10px;
+}
+#user i{
+    color:black;
+}
+#user i:hover{
+    color: rgb(180, 9, 180);
+}
+.fa-user{
+    margin-left: -60px;
+}
+
+#mymodal{
+    margin-left: -100px;
+}
+.fa-cart-plus{
+    margin-left: -20px;
+}
+.modal-content {
+    width: auto; /* Allow content to expand based on image size */
+    max-width: 80%; /* Limit maximum width of modal content */
+    margin: auto; /* Center the modal content horizontally */
+}
+
+/* Image within modal */
+.modal-content img {
+    max-width: 10%; /* Ensure image doesn't exceed modal content width */
+    max-height: 10vh; /* Limit maximum height of image to 80% of viewport height */
+    display: block; /* Ensure the image is displayed as a block element */
+    margin-inline-end: auto; /* Center the image horizontally within the modal content */
+}
+.custom-alert {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px dotted rgb(180, 9, 180);
+    background-image: url("./img/violet.jpg");
+    color: white;
+    padding: 70px;
+    border-radius: 10px;
+    height: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    z-index: 9999; /* Ensure it's above other content */
+   
+}
+
+.custom-alert .tick-symbol {
+    font-size: 24px;
+    margin-right: 10px;
+}
+.custom-alert .alert-box{
+      
+      background-color: rgb(180, 9, 180);
+  font-family: "Sarabun", sans-serif;
+
+      padding: 30px;
+      border-radius: 50px;
+      height: 100px;
+      margin-top: -25px;
+      font-size: 20px;
+}
+/* navbar.css */
+.scrolling-text {
+    overflow: hidden;
+    position: relative;
+    color: deeppink;
+    font-weight: 500;
+    height: 30px; /* Adjust the height according to your design */
+  }
+  
+  .scrolling-text-content {
+    position: absolute;
+    top: 100%; /* Initially, move the text below the container */
+    left: 0;
+    margin-left: 400px;
+    animation: scroll-up 2s linear infinite; /* Adjust the animation duration as needed */
+  }
+  
+  @keyframes scroll-up {
+    0% {
+      top: 100%; /* Start from below the container */
+    }
+    50%{
+        top:30%;
+    }
+    75%{
+        top:10%;
+    }
+    100% {
+      top: -100%; /* Move to the top of the container */
+    }
+  }
+  .link_nav_1{
+    color: rgb(126, 124, 124);
+    text-decoration: none;
+    font-size: 15px;
+  font-family: "Sarabun", sans-serif;
+
+  }
+  .link_nav_1:hover{
+    color:rgb(180, 9, 180) ;
+  }
+  .link_nav_2{
+    color: rgb(180, 9, 180);
+    text-decoration: none;
+    font-size: 15px;
+    font-family: "Nosifer", sans-serif;
+    padding-top:20px !important ;
+  }
+
+  .img-circle{
+    border-radius: 50%;
+    border: 3px dotted violet;
+    padding: 2px;
+  }
+  .img-circle:hover{
+    border: 4px dotted deeppink;
+  }
+
+  #sale{
+    color: deeppink;
+   font-family: "Nosifer", sans-serif !important;
+   font-size: 20px;
+  }
+
+  /* modal */
+
+.remove_but{
+    padding: 5px;
+    background-color: rgb(253, 208, 253);
+   font-family: "Sarabun", sans-serif;
+   border: none;
+    color: rgb(180, 9, 180);
+    font-weight: 700;
+    margin-top: -15px;
+    border-radius: 5px;
+}
+#modal_bg{
+    background-image: url("./img/violet.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#increase_but{
+    
+    margin-top: -60px;
+    color: rgb(180, 9, 180);
+}
+#total_amt{
+    
+    margin-top: 30px;
+    color: rgb(180, 9, 180);
+    font-weight: 700;
+   font-family: "Sarabun", sans-serif;
+
+}
+#title_modal{
+    color: rgb(180, 9, 180);
+    font-weight: 500;
+   font-family: "Sarabun", sans-serif;
+   width: 400px;
+}
+
+#modal_form{
+    line-height: 5px;
+}
+.form-label{
+    margin-top: -5px;
+    color: rgb(180, 9, 180);
+   font-family: "Sarabun", sans-serif;
+   font-weight: 700;
+
+}
+#items_cart{
+    color: rgb(180, 9, 180);
+    font-weight: 700;
+   font-family: "Sarabun", sans-serif;
+}
+#navbarSupportedContent{
+    margin-top: -4px;
+}
+
+
+
+/* ---------media query--------- */
+
+@media(max-width:426px){
+    .link_nav_1 li{
+        font-size: 7px !important; 
+        font-weight: 800;
+        height: 20px !important;
+    }
+    #sale{
+        font-size: 15px !important;
+    }
+    #modal_bg button{
+      font-size: 10px;
+}
+
+}
+@media(max-width:321px){
+    .link_nav_1 li{
+        font-size: 6px !important; 
+        font-weight: 800;
+        height: 20px !important;
+    }
+    #sale{
+        font-size: 10px !important;
+    }
+    #modal_bg button{
+        font-size: 8px;
+  }
+}
+
+@media(max-width:769px){
+    #title_modal{
+        width: 250px;
+        margin-left: -15px;
+        font-size: 15px;
+    }
+}
+
+@media(max-width:426px){
+    #title_modal{
+        width: 200px;
+        margin-left: -15px;
+        font-size: 10px;
+    }
+    #increase_but{
+        font-size: 7px;
+        margin-top: -30px;
+        
+    }
+}
+
+@media(max-width:321px){
+    #title_modal{
+        width: 150px;
+        margin-left: -15px;
+        font-size: 8px;
+    }
+    #increase_but{
+        font-size: 7px;
+        margin-top: -40px;
+        
+    }
+}

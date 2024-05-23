@@ -1,0 +1,22 @@
+#foot_slide{
+    background-image: url("./img/violet.jpg");
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+    color: rgb(180, 9, 180)  !important;
+    font-size: 5px;
+    height: 230px;
+    margin-top: -50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    #foot_slide h1{
+        padding: 30px;
+        color:rgb(180, 9, 180) !important ;
+
+    }
+    #foot_slide h2{
+        font-size: 18px;
+        color: rgb(180, 9, 180) !important;
+
+    }

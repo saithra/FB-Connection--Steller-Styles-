@@ -1,0 +1,17 @@
+#color1{
+  font-family: "Sarabun", sans-serif;
+    
+}
+#about-h1{
+  font-family: "Sarabun", sans-serif;
+  color: rgb(180, 9, 180);
+  
+}
+#about-discover{
+    font-family: "Sarabun", sans-serif;
+    color: rgb(180, 9, 180);
+    background-image: url("./img/violetbg.jpg");
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,224 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.navbar-nav li{
+  list-style: none !important;
+ 
+  
+}
+body{
+  background-image: url("./img/violet.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.nav-link{
+  font-size: 55px;
+  font-family:'Times New Roman', Times, serif;
+  text-decoration: none;
+  
+  
+}
+.nav-link:hover{
+  cursor: pointer;
+  color:rgb(193, 6, 106);
+}
+
+
+nav{
+  display: flex;
+  justify-content: space-around;
+}
+h1{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.login-container{
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  padding-top: 15px;
+  border-radius: 10px;
+  font-family: "Sarabun", sans-serif;
+    color: #aa0cd1;
+  text-shadow: 2px 2px 2px white;
+  box-shadow: 2px 2px 2px black
+  inset 2px 2px 2px #aa0cd1 !important;
+}
+.mb-3{
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.mb-3 label{
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.mb-3 input{
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: none;
+  border-radius: 3px;
+  background-color: rgb(252, 196, 252) !important;
+  color: #aa0cd1 !important;
+  font-weight: 600;
+  
+}
+/* .btn-primary{
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(180, 9, 180) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 10px !important;
+  cursor: pointer;
+  font-family: "Sarabun", sans-serif;
+  font-size: 20px;
+  font-weight:500;
+  width: 200px;
+
+  display: inline-block;
+  background: linear-gradient(to right, rgb(255, 161, 255) 0%, rgb(250, 143, 254) 50%, #aa0cd1 50%, #8d11c7 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.3s;
+}
+.btn-primary:hover{
+  background-color: white;
+  color: white !important;
+  cursor: pointer;
+
+  background-position:0 0;
+} */
+#p{
+  margin-top: 5px !important;
+  margin-left: 8px;
+}
+.shop_but{
+  cursor: pointer;
+  padding: 8px;
+  width: 180px;
+  font-family: "Sarabun", sans-serif;
+  font-size: 20px;
+  font-weight:500;
+  background-color: rgb(180, 9, 180);
+  border: none;
+  color: white !important;
+  border-radius: 30px !important;
+  margin-top: 15px;
+  width: 200px;
+  display: inline-block;
+  background: linear-gradient(to right, rgb(255, 161, 255) 0%, rgb(250, 143, 254) 50%, #aa0cd1 50%, #8d11c7 100%);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.3s;
+}
+.shop_but:hover{
+  background-color: white;
+  color:rgb(180, 9, 180)  !important;
+  cursor: pointer;
+
+  background-position:0 0;
+    
+}
+
+.first_but{
+  /* margin-left: 560px; */
+  padding: 8px;
+  width: 150px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+  background-color: rgb(193, 6, 106);
+  border: none;
+  color: wheat;
+  border-radius: 3px;
+  margin-top: 15px;
+}
+.first_but:hover{
+  background-color: white;
+  color: rgb(180, 9, 180) !important;
+  cursor: pointer;
+}
+.h1{
+  color: rgb(193, 6, 106);
+  margin-top: -100px;
+
+}
+.h1:hover{
+  cursor: pointer;
+  color: rgb(193, 6, 106);
+}
+.link{
+  color: white !important;
+  text-decoration: none;
+  padding: 10px;
+}
+.link:hover{
+  color: rgb(180, 9, 180) !important;
+}
+.home{
+  text-decoration: none;
+  font-size: 60px;
+  font-family:'Times New Roman', Times, serif;
+  text-decoration: none;
+  color:rgb(180, 9, 180);
+  height: 90vh;
+  /* margin-top: 240px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.home:hover{
+  cursor: pointer;
+  color:rgb(193, 6, 106);
+  text-shadow: 2px 2px 1px rgb(180, 9, 180) ;
+}
+.page{
+  height: 90vh;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  border-radius: 3px;
+  /* margin-top: 30px; */
+ 
+}
+#page{
+ 
+ box-shadow: 2px 6px 20px rgb(244, 150, 244) ,
+             inset 2px 3px 5px rgb(244, 150, 244);
+
+border: none;
+}
+
+.login-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  padding: 20px;
+  background-color:transparent; /* Adjust background color as needed */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+
+.login{
+  color:#aa0cd1 !important;
+  font-weight: 700;
+  text-decoration: none;
+}
+.login:hover{
+  text-decoration: underline;
+}
+

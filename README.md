@@ -18,15 +18,18 @@ Admins can read, create, update, and delete products, and view customer details,
 
 
 
+
+
 ![project](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/5503bdcd-6124-439b-b0e3-02cee2376781)
 ![project1](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/51defc73-51cb-41c9-9da8-f97e3ba06a84)
 ![project2](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/a8e498a2-9fd4-4d1e-af2e-4d0bca8a6b6e)
 ![project3](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/25b1f13f-08db-467e-b026-2f404eabcfb7)
 ![project4](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/30d0dd64-9e9c-44ad-9161-fa3baa9d53ba)
 ![project5](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/b00d1fa7-f5c5-4fac-b3c5-2c7134859ace)
-![project6](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617
+![project6](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/c35b3710-ed2e-4fd1-84cb-1c8ad0e2576c)
+
 ![project7](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/aa99e8ce-c5f9-4d99-b83c-d31e0f4f2f83)
-/30a728d9-e7db-4db7-98d5-15a0310a3f43)
+
 ![project8](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/eea55a7c-e155-4d9e-85a5-8be9ccb51dcb)
 
 ![project9](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/dc141a20-f50a-4a98-a016-feec3ccf7a08)
@@ -52,6 +55,8 @@ Admins can read, create, update, and delete products, and view customer details,
 
 ![project24](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/c8c82fc7-a6ca-4ac5-98e8-ea8205b4a343)
 ![project25](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/d34d3d03-8b57-44be-8b78-df1c0b3ae23e)
+
+
 
 
 

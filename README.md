@@ -61,8 +61,11 @@ Admins can read, create, update, and delete products, and view customer details,
 ![project23](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/33563145-c447-4082-942c-0dbc4e5adefe)
 
 ![project24](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/c8c82fc7-a6ca-4ac5-98e8-ea8205b4a343)
+# Admin can add new product
 ![project25](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/d34d3d03-8b57-44be-8b78-df1c0b3ae23e)
 # Admin can edit the title and price
+
+![project26](https://github.com/saithra/FB-Connection--Steller-Styles-/assets/149575617/7d6734dc-008c-4eb4-a474-5f9f113829e9)
 
 
 

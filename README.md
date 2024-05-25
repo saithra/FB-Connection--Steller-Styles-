@@ -1,6 +1,6 @@
 # A Complete e-Commerce Website 
 
-"I built an e-commerce website called Stellar Style using the MERN stack. I handled both the front-end and back-end development.
+"I built an e-commerce website called Steller Styles using the MERN stack. I handled both the front-end and back-end development.
 
 For the front-end, I used React.js along with HTML, CSS, and JavaScript. I incorporated Bootstrap to ensure the site is mobile-friendly.
 
